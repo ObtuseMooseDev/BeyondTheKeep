@@ -1,0 +1,10 @@
+Instructions:
+
+1. Side load .APK to tablet in order to run the game
+2. Run application
+3. Practice mode explains how to play
+4. Press the play button to start the game
+5. Press custimization, then Minion & Towers, in order to buy a "poison minion"
+
+*Note:
+-Bundle microtransaction purchase has not been implemented due to time contraints
