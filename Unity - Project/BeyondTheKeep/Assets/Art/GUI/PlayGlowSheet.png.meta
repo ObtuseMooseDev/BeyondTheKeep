@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 9b30bba87de2b44efae78391034fde4f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayGlowSheet_0
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 949
+        width: 290
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_1
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 882
+        width: 422
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 874
+        width: 448
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 874
+        width: 448
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 874
+        width: 456
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 865
+        width: 459
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 865
+        width: 456
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_7
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 865
+        width: 459
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_8
+      rect:
+        serializedVersion: 2
+        x: 4562
+        y: 865
+        width: 465
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_9
+      rect:
+        serializedVersion: 2
+        x: 5104
+        y: 865
+        width: 459
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_10
+      rect:
+        serializedVersion: 2
+        x: 5643
+        y: 865
+        width: 465
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_11
+      rect:
+        serializedVersion: 2
+        x: 6185
+        y: 865
+        width: 468
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_12
+      rect:
+        serializedVersion: 2
+        x: 6724
+        y: 865
+        width: 465
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_13
+      rect:
+        serializedVersion: 2
+        x: 7266
+        y: 865
+        width: 468
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_14
+      rect:
+        serializedVersion: 2
+        x: 7805
+        y: 865
+        width: 468
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_15
+      rect:
+        serializedVersion: 2
+        x: 8347
+        y: 865
+        width: 468
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 168
+        width: 469
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_17
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 168
+        width: 465
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 168
+        width: 469
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 168
+        width: 465
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_20
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 168
+        width: 468
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_21
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 168
+        width: 465
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_22
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 174
+        width: 459
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_23
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 174
+        width: 459
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_24
+      rect:
+        serializedVersion: 2
+        x: 4562
+        y: 177
+        width: 465
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_25
+      rect:
+        serializedVersion: 2
+        x: 5104
+        y: 177
+        width: 459
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_26
+      rect:
+        serializedVersion: 2
+        x: 5643
+        y: 177
+        width: 465
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_27
+      rect:
+        serializedVersion: 2
+        x: 6188
+        y: 177
+        width: 456
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_28
+      rect:
+        serializedVersion: 2
+        x: 6733
+        y: 177
+        width: 448
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_29
+      rect:
+        serializedVersion: 2
+        x: 7277
+        y: 185
+        width: 440
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_30
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 194
+        width: 431
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: PlayGlowSheet_31
+      rect:
+        serializedVersion: 2
+        x: 8442
+        y: 251
+        width: 290
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
