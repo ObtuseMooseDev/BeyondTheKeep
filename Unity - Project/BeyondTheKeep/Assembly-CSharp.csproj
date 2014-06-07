@@ -76,6 +76,7 @@
      <Compile Include="Assets\Scripts\MinionController.cs" />
      <Compile Include="Assets\Scripts\Mover.cs" />
      <Compile Include="Assets\Scripts\PracticeMode.cs" />
+     <Compile Include="Assets\Scripts\ResourceTowerController.cs" />
      <Compile Include="Assets\Scripts\RestartTime.cs" />
      <Compile Include="Assets\Scripts\SpawnController.cs" />
      <Compile Include="Assets\Scripts\SpawnTouchTrigger.cs" />
